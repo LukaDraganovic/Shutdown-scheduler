@@ -7,7 +7,7 @@
 
 int main() {
 start:
-    printf("Shutdown scheduler\n\n");
+    printf("Shutdown scheduler by Luka Draganovic\n\n");
     printf("\nShutdown scheduling: PRESS 1");
     printf("\nCancel scheduled shutdown: PRESS 2\n");
     printf("End the program: PRESS 3\n");
