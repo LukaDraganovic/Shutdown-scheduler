@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define _CTR_SECURE_NO_WARNINGS
 #include <time.h>
 #include <Windows.h> 
 
