@@ -15,7 +15,7 @@ This application provides a convenient way to automate the shutdown process on y
 
 ### Using the Executable
 
-1.  Download the latest release executable from the [Releases](https://github.com/LukaDraganovic/Shutdown-scheduler) page. 
+1.  Download the latest release executable from the [Releases](https://github.com/LukaDraganovic/Shutdown-scheduler/releases) page. 
 2.  Run the downloaded executable.
 3.  Select the desired action (e.g., Schedule Shutdown).
 4.  Enter the time in `HH:MM` format (24-hour clock, e.g., `23:00` for 11 PM). Don't forget the colon!
